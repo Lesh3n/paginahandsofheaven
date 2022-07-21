@@ -20,6 +20,9 @@ export const Header = () => {
                 <li className="nav-item">
                     <NavLink to={"/contacto"} className="nav-link" >Contáctanos</NavLink>
                 </li>
+                <li className="nav-item">
+                    <NavLink to={"/login"} className="nav-link" >Intranet</NavLink>
+                </li>
             </ul>
         </>
     )

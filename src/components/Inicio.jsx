@@ -1,8 +1,11 @@
 import React from 'react'
+import { useEffect } from 'react'
+import { useState } from 'react'
 import logo from '../assets/img/HANDS OF HEAVEN LOGO.png'
 import escaparate from '../assets/img/vitrina tienda mangas.png'
 
 export const Inicio = () => {
+
   return (
     <>
         <div className="container">

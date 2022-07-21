@@ -6,6 +6,9 @@ export const QuienesSomos = () => {
     <>
     <div className='container'>
         <div id='tituloQuienesSomos' className='text-center border-bottom border-dark'>
+          <br />
+          <br />
+          <br />
             <h1>¿Quiénes somos?</h1>
         </div>
         <br />
