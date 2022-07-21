@@ -1,3 +1,12 @@
+*** AVISO ***
+Las credenciales para acceder a la plataforma privada son:
+
+User: admin
+Pass: clave
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
